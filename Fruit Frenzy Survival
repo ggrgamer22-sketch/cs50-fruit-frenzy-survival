@@ -1,0 +1,31 @@
+# Fruit Frenzy Survival
+
+## Description
+
+Fruit Frenzy Survival is a Scratch game created for Harvard University's CS50 course.
+
+The player controls a ball using the WASD keys and must survive until the countdown timer reaches zero while avoiding the Apple and Banana enemies.
+
+## Controls
+
+- W = Move Up
+- A = Move Left
+- S = Move Down
+- D = Move Right
+
+## Features
+
+- WASD movement
+- Countdown timer
+- Random enemy movement
+- Enemy chase behavior
+- Game Over screen
+- Victory screen
+
+## Objective
+
+Survive until the timer reaches zero without touching the Apple or Banana.
+
+## Author
+
+Gulam rasool
